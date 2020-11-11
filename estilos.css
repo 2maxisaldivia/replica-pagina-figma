@@ -1,25 +1,30 @@
 body{
-    position: absolute;
-    background-image: url(fotos.jpeg);
+    background-image: url(imagenes/fotos.jpeg);
 }
 header{
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     align-items: center;
+    font-family: Helvetica, sans-serif;
+    font-size: 12pt;
+    color: white;
+    padding: 2rem;
 }
-ul{
+.camping{
+    font-weight: bold;
+    font-size: 14pt;
+}
+.menu, .registrarse{
     display: flex;
+    justify-content: space-between;
+    border: 2rem;
     list-style: none;
 }
-  vVaw0qMPXUwqTkDDhAEVlKJKjK&ust=1605137880941000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMiH9OKS-ewCFQAAAAAdAAAAABAE);
-}
-header{
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-}
-ul{
-    display: flex;
+
+
+
+
+splay: flex;
     list-style: none;
 }
  
