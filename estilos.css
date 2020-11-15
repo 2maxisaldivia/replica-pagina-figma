@@ -1,30 +1,37 @@
 body{
-    background-image: url(imagenes/fotos.jpeg);
-}
-header{
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    font-family: Helvetica, sans-serif;
-    font-size: 12pt;
+    background-image: url(imagenes/monte.jpg);
+    font-family:Helvetica, sans-serif;
     color: white;
-    padding: 2rem;
 }
+
+.encabezado{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+ul{
+    display: flex;
+    list-style: none;
+}
+
+li{
+    box-sizing: border-box;
+    margin: 5px;
+    padding: 5px;
+    font-size: 10pt;
+}
+
 .camping{
     font-weight: bold;
-    font-size: 14pt;
+    font-size: 12pt;
+    box-sizing: border-box;
+    padding-top: 22px;
 }
-.menu, .registrarse{
+
+.cuerpo{
     display: flex;
-    justify-content: space-between;
-    border: 2rem;
-    list-style: none;
+    flex-direction: column;
+}ent: flex-end;
+}t: flex-end;
 }
-
-
-
-
-splay: flex;
-    list-style: none;
-}
- 
