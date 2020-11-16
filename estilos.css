@@ -8,6 +8,7 @@ body{
     display: flex;
     flex-direction: row;
     justify-content: space-between;
+    align-items: baseline;
 }
 
 ul{
@@ -25,13 +26,20 @@ li{
 .camping{
     font-weight: bold;
     font-size: 12pt;
-    box-sizing: border-box;
-    padding-top: 22px;
+    
 }
 
-.cuerpo{
+.titulos {
     display: flex;
     flex-direction: column;
-}ent: flex-end;
-}t: flex-end;
+    justify-content: space-between;
+}
+
+ space-between;
+}
+
+.titulo1, .titulo2, .subtitulo{
+
+}ubtitulo{
+
 }
