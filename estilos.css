@@ -2,7 +2,9 @@
 html, body { width: 100%; height: 100%; margin: 0; padding: 0 }
 
 body{
-    background-image: url(imagenes/monte.jpg);
+    background-image: url(imagenes/montañita.jfif);
+
+    position: absolute;
     font-family:Helvetica, sans-serif;
     color: white;
 }
@@ -49,7 +51,7 @@ li{
 }
 
 .subtitulo{
-    font-size: 14pt;
+    font-size: 13pt;
     font-weight: normal;
 }
-  
+   
